@@ -1,7 +1,7 @@
 # NHẬT KÝ THỰC HIỆN LAB 6 (LOGBOOK)
 
-* **Họ và tên:** 
-* **Mã sinh viên:** 
+* **Họ và tên: Trần Quang Khải** 
+* **Mã sinh viên: PS51553** 
 * **Link Repository cá nhân:** 
 
 > [!NOTE]
@@ -12,9 +12,9 @@
 
 ### Lần 1: Bài 1 - Bộ Lọc Làm Mịn Tín Hiệu (Moving Average)
 - Trạng thái: Chờ chấm
-- Prompt hỏi AI (nếu có): 
-- Lỗi phát hiện qua Test (nếu có): 
-- Cách sửa / Bài học: 
+- Prompt hỏi AI (nếu có): có dùng AI để tham khảo
+- Lỗi phát hiện qua Test (nếu có): chưa có
+- Cách sửa / Bài học: Chờ kết quả phản hồi từ GitHub Actions
 
 ### Lần 2: Bài 1
 - Trạng thái: 
