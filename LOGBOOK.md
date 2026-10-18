@@ -17,8 +17,8 @@
 - Cách sửa / Bài học: Chờ kết quả phản hồi từ GitHub Actions
 
 ### Lần 2: Bài 1
-- Trạng thái: 
-- Lỗi / Cách sửa: 
+- Trạng thái: sửa lỗi lần 2
+- Lỗi / Cách sửa: lỗi logic dòng 54 và 56, đổi smooth[0] và smooth[n - 1] thành smooth[i]
 
 ### Lần 3: Bài 1 (Dự phòng)
 - Trạng thái: 
