@@ -27,10 +27,10 @@
 ---
 
 ### Lần 4: Bài 2 - Nén Sai Phân Dữ Liệu IoT (Delta Encoding)
-- Trạng thái: 
-- Prompt hỏi AI (nếu có): 
-- Lỗi phát hiện qua Test (nếu có): 
-- Cách sửa / Bài học: 
+- Trạng thái: chờ chấm
+- Prompt hỏi AI (nếu có): đã hỏi AI cách trình bày
+- Lỗi phát hiện qua Test (nếu có): không phát hiện lỗi
+- Cách sửa / Bài học: Chờ kết quả phản hồi từ GitHub Actions
 
 ### Lần 5: Bài 2
 - Trạng thái: 
