@@ -49,8 +49,8 @@
 - Cách sửa / Bài học: Chờ kết quả phản hồi từ GitHub Actions
 
 ### Lần 8: Bài 3
-- Trạng thái: 
-- Lỗi / Cách sửa: 
+- Trạng thái: sửa lỗi lần 2
+- Lỗi / Cách sửa: Luôn chia cho 9, gây sai kết quả ở viền và góc
 
 ### Lần 9: Bài 3 (Dự phòng)
 - Trạng thái: 
